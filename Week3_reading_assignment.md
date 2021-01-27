@@ -1,7 +1,6 @@
-After watching Racehl Levine's video, I was amazed at all of the work she, the Red Cross, and other partners are doing to bring mapping data to communities around the world. 
+After watching Racehl Levine's video, I was amazed at all of the work Missing Maps and their partners are doing to bring mapping data to communities around the world. 
 It made me realize how much I take for granted my ability to easily find directions and information about any place in my local community and really opened my eyes to the 
 great need for this information in some communities around the world. The use of communication technology in providing open source data to help needed communities really stood out
 to me in her presentation. I thought it was interesting that workers were able to use Facebook or other digital communication activity data to trace where there might have been 
 power or connectivity loss after Hurrican Maria in Puerto Rico. Even though workers at Missing Maps did not have a great map of the island at the time, they were able to bring hot
-spot connections to those without power to let their loved ones know they were safe. This showed me that helpful data is present all around me and that social media and digital
-communication can be used more than just to connect with friends, but also to help communities in times of crisis and need. 
+spot connections to those without power by tracing digital communication trends before and after the natural disaster to help citizens let their loved ones know they were safe. This showed me that there is helpful data all around me in almost all of the apps I use, such as Instagram, Yelp, and Uber, and that social media and digital communication can be used more than just to connect with friends, but also to help communities in times of crisis and need. 
